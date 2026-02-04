@@ -1,0 +1,58 @@
+[
+  {
+    "id": "starter-1",
+    "name": "Smoked Paneer Tikka",
+    "description": "Char-grilled cottage cheese, hung curd, mustard oil, and house spice blend, served with mint chutney.",
+    "price": 380,
+    "category": "Starters",
+    "imageUrl": "https://images.unsplash.com/photo-1543353071-873f17a7a088?auto=format&fit=crop&w=900&q=80",
+    "vegetarian": true,
+    "special": true
+  },
+  {
+    "id": "starter-2",
+    "name": "Kolkata Chilli Chicken",
+    "description": "Crispy chicken tossed with peppers, onions, and a smoky Indo-Chinese chilli sauce.",
+    "price": 410,
+    "category": "Starters",
+    "vegetarian": false,
+    "special": false
+  },
+  {
+    "id": "main-1",
+    "name": "Riverfront Fish Curry",
+    "description": "Fresh catch simmered in mustard, green chilli, and tomato gravy. Best enjoyed with steamed rice.",
+    "price": 520,
+    "category": "Main Course",
+    "imageUrl": "https://images.unsplash.com/photo-1617196034796-73dfa7b1fd56?auto=format&fit=crop&w=900&q=80",
+    "vegetarian": false,
+    "special": true
+  },
+  {
+    "id": "main-2",
+    "name": "Smoked Dal Makhani",
+    "description": "Slow-cooked black lentils finished with cream, butter, and a hint of coal smoke.",
+    "price": 420,
+    "category": "Main Course",
+    "vegetarian": true,
+    "special": false
+  },
+  {
+    "id": "dessert-1",
+    "name": "Gur Rasgulla Cheesecake",
+    "description": "Baked cheesecake with nolen gur, soft rasgulla, and pistachio praline.",
+    "price": 320,
+    "category": "Desserts",
+    "vegetarian": true,
+    "special": true
+  },
+  {
+    "id": "beverage-1",
+    "name": "Masala Chaas",
+    "description": "Buttermilk tempered with roasted cumin, coriander, and curry leaves.",
+    "price": 160,
+    "category": "Beverages",
+    "vegetarian": true,
+    "special": false
+  }
+]
